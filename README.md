@@ -1,0 +1,1 @@
+# NC-newton-ralson-method
